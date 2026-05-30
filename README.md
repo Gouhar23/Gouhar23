@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Gouhar23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...AI related projects
-- 📫 How to reach me ... gouhartaak5@gmail.com
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...
+# Hi, I'm Gouhar 👋
 
-<!---
-Gouhar23/Gouhar23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about AI and building things with code.  
+Currently learning Python and exploring the world of Machine Learning.
+
+---
+
+## 🌱 Currently learning
+- Python fundamentals
+- Machine Learning concepts
+- GitHub & version control
+
+## 💡 Interests
+- Artificial Intelligence
+- Data Science
+- Collaborating on AI-related projects
+
+## 📫 Reach me
+- Email: gouhartaak5@gmail.com
+
+---
+
+*"Every expert was once a beginner."*
