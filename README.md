@@ -1,19 +1,25 @@
 # Hi, I'm Gouhar 👋
 
-I'm passionate about AI and building things with code.  
-Currently learning Python and exploring the world of Machine Learning.
+I'm passionate about AI and building things with data.  
+Currently learning Python, Machine Learning, and Business Intelligence.
 
 ---
 
 ## 🌱 Currently learning
 - Python fundamentals
 - Machine Learning concepts
-- GitHub & version control
+- Data Analytics & Business Intelligence
 
 ## 💡 Interests
 - Artificial Intelligence
-- Data Science
+- Data Science & Analytics
+- Business Intelligence
 - Collaborating on AI-related projects
+
+## 🛠️ Tools & Technologies
+- Python
+- Data Analytics
+- Business Intelligence (BI)
 
 ## 📫 Reach me
 - Email: gouhartaak5@gmail.com
